@@ -44,8 +44,5 @@ After installation finishes run `node register.js` to deploy slash commands and 
 ## 📸 Screenshots
 ![Ask](https://ibb.co/YbwXMfG)
 ![imagine](https://ibb.co/SQQ6SWL)
-![Translate](https://user-images.githubusercontent.com/89854127/218874217-f472fa38-9918-46a3-a0e2-6a4cbfb4c370.png)
-
-
 #
 Made with ❤️ and JavaScript, Don't Forget to ⭐
